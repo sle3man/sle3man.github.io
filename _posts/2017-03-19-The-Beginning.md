@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Beginning"
-date: 2017-03-19
+date: 2017-03-19 16:34
 ---
 
 Congratuations, you have found the beginning of my blog!
