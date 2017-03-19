@@ -1,2 +1,3 @@
 	name: Claire's Cybersecurity Corner
 	markdown: kramdown
+	permalink: /blog/:year/:month/:day/:title
