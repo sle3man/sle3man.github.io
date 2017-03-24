@@ -8,7 +8,7 @@ Congratuations, you have found the beginning of my blog!
 
 Here's a joke to begin:
 
-Q. What did the mayonaise say when someone opened the refrigerator door?
+Q. What did the mayonnaise say when someone opened the refrigerator door?
 
 A. Close the door I am dressing!
 
