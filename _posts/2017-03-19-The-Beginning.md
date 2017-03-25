@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Beginning"
+post_title: "The Beginning"
 date: 2017-03-19 16:34
 ---
 
