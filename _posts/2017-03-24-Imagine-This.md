@@ -1,6 +1,5 @@
 ---
 layout: post
-tab_title: "Claire's Cybersecurity // Blog"
 title: "Claire's Cybersecurity // Blog"
 post_title: "Imagine This"
 date: 2017-03-24 15:44
