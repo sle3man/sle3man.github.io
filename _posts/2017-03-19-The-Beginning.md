@@ -1,6 +1,9 @@
 ---
 layout: post
+tab_title: "Claire's Cybersecurity // Blog"
+title: "Claire's Cybersecurity // Blog"
 post_title: "The Beginning"
+
 date: 2017-03-19 16:34
 ---
 
