@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Imagine This - Claire's CC // Blog"
-post_title: "Imagine This"
+title: "Imagine This"
 date: 2017-03-24 15:44
 ---
 
