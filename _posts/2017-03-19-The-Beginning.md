@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Claire's Cybersecurity // Blog"
+title: "The Beginning - Claire's CC // Blog"
 post_title: "The Beginning"
 date: 2017-03-19 16:34
 ---
