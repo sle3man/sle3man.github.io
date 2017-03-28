@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "The Beginning - Claire's CC // Blog"
-post_title: "The Beginning"
+title: "The Beginning"
 date: 2017-03-19 16:34
 ---
 
