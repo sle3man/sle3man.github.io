@@ -30,7 +30,8 @@ Generically, the HTML is in this format:
 `<img class="*FB IMAGE TYPE*" src="*FB IMAGE LINK*" alt="Image may contain: *WHAT FB THINKS THE IMAGE CONTAINS*" height="*HEIGHT*" width="*WIDTH*">`
 
 
-So why are they doing this?
+<h2> So why are they doing this? </h2> 
+
 I could imagine this kind of image analysis isn't being used for nefarious reasons (I do have my doubts, however) as it plainly shows up in the HTML. Indeed, I did further sleuthing and found that this 'feature' [is being used in tandem with text-to-speech for users with difficulties looking at images](https://www.theguardian.com/technology/shortcuts/2016/apr/10/image-may-contain-cat-now-facebook-can-talk-you-through-your-photos "The future is here").
 
 The article states that: 
