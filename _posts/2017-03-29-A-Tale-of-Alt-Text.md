@@ -11,7 +11,7 @@ Several moons ago, I would occasionally see my Facebook feed with broken images 
 ![Example image](https://scontent.fybz1-1.fna.fbcdn.net/v/t39.2229-6/11057177_10153197137149210_361761597_n.jpg?oh=7a6e459126b526fac9081791ebd4cf5d&oe=59682F76)
 
 
-Source: https://www.facebook.com/help/community/question/?id=10153197138404210
+Source: [https://www.facebook.com/help/community/question/?id=10153197138404210](https://www.facebook.com/help/community/question/?id=10153197138404210)
 
 However, the "owner's photo" in place of the empty image wasn't what I saw. Instead, it was something to the tune of, "Image may contain: one person, standing". Odd, indeed.
 
