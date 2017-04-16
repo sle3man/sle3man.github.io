@@ -2,7 +2,9 @@
 layout: default
 title: Claire's Cybersecurity Corner // Blog
 ---
-
+<h2>
+	DISCLAIMER: The views, opinions, conclusions and other information expressed in this blog are not given or endorsed by the company I work for unless otherwise indicated by an authorised representative independent of the blog post. 
+</h2>
 <ul class="posts">
 {% for post in site.posts %}
 	<li><span>{{ post.date | date_to_long_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
