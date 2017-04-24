@@ -27,7 +27,8 @@ See how FB got all of it right, even though it says "may contain"? Neat, but a b
 
 Generically, the HTML is in this format:
 
-`<img class="*FB IMAGE TYPE*" src="*FB IMAGE LINK*" alt="Image may contain: *WHAT FB THINKS THE IMAGE CONTAINS*" height="*HEIGHT*" width="*WIDTH*">`
+
+![HTML](/assets/fb%20html.png)
 
 
 <h2> So why are they doing this? </h2> 
