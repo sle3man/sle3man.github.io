@@ -43,7 +43,7 @@ What the average user wouldn't know is that they're being paid to engage in a DO
 
 Scale this attack up to tens, if not hundreds of thousands of devices and computers and you have a massive array of machines that have the ability to bring down even the biggest networks.
 
-Of course, there are ways to mitigate these attacks in the form of DDoS protection such as Akamai's [*Kona Site Defender*](https://www.akamai.com/us/en/products/cloud-security/kona-site-defender.jsp) or [Cloudflare's DDoS protection](https://www.cloudflare.com/ddos/), which "**have successfully mitigated attacks bigger than 400Gbps.**"
+Of course, there are ways to mitigate these attacks in the form of DDoS protection such as [*Akamai*'s Kona Site Defender](https://www.akamai.com/us/en/products/cloud-security/kona-site-defender.jsp) or [*Cloudflare*'s DDoS protection](https://www.cloudflare.com/ddos/), which "**have successfully mitigated attacks bigger than 400Gbps.**"
 
 "People pay for this stuff?" is what an average computer user would ask.
 
