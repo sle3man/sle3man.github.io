@@ -7,7 +7,7 @@ date: 2017-06-18 16:39
 
 ![http://www.securitywizardry.com/images/stories/cartoons/2ddos.gif](/assets/2ddos.gif)
 
-Source: http://www.securitywizardry.com/index.php/tools/security-cartoons.html, Joy of Tech
+Source: [http://www.securitywizardry.com/index.php/tools/security-cartoons.html](http://www.securitywizardry.com/index.php/tools/security-cartoons.html), Joy of Tech
 
 It's interesting how a comic from 17 years ago is still relevant today: Servers and networks that can be brought down to a halt by anyone with a computer connected to the Internet- whether old, young, or in between, Distributed Denial of Service (DDoS) attacks are still real and a menace to networks and the Internet as a whole. 
 
