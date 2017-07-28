@@ -3,7 +3,7 @@ layout: default
 title: DDoS Attacks - Blenders, Toasters, and Fridges Unite to Take Down... Corporations?!
 date: 2017-06-18 16:39
 ---
-*Last edited: 27 July 2017*
+*Last edited: 28 July 2017*
 
 [http://www.securitywizardry.com/images/stories/cartoons/2ddos.gif](http://www.securitywizardry.com/images/stories/cartoons/2ddos.gif)
 
@@ -53,9 +53,20 @@ Granted, the dream a lot of us have involves making it big, having a sizeable ho
 
 Less developed nations (such as those in eastern Europe) may not be able to catch up with the advances made in Internet technology, which leaves those countries rife for issues in being able to curb cybercrime. 
 
-Paolo Sartori, a senior Italian police investigator speaking to the Washington Free Beacon, states that "The way cyber crime has changed criminality is the biggest challenge for us. It is a huge challenge to face this criminal phenomenon," where "Cyber crime originating from Russia and Eastern Europe is increasing in both scale and sophistication"
+Paolo Sartori, a senior Italian police investigator speaking to the [Washington Free Beacon](http://freebeacon.com/national-security/interpol-cyber-crime-from-russia-e-europe-expands/), states that "The way cyber crime has changed criminality is the biggest challenge for us. It is a huge challenge to face this criminal phenomenon," where "Cyber crime originating from Russia and Eastern Europe is increasing in both scale and sophistication"
 
-Coupled with the fact of the lack of resources to deal with the issue and with the prospect o withf being able to own say, a Porsche Cayenne, then it may seem like a good idea to deny poor old Ben from being able to access his work computer via a VPN tunnel. Of course, this is a bit of an exaggeration- those on the bottom of the cybercrime industry typically do not have the means to make a *serious* (to the tune of millions) amount of money, but those that have the knowledge and charisma may certainly do so.
+Coupled with the fact of the lack of resources to deal with the issue and with the prospect with being able to own say, a Porsche Cayenne, then it may seem like a good idea to deny poor old Ben from being able to access his work computer via a VPN tunnel. Of course, this is a bit of an exaggeration- those on the bottom of the cybercrime industry typically do not have the means to make a *serious* (to the tune of millions) amount of money, but those that have the knowledge and charisma may certainly do so.
 
+A consequence of lack of law enforcement or regulations is what drives some people to crime- the lack of jobs. In the Free Beacon link, 
+
+> The region also has a large pool of people with very advanced information technology skills. Cyber criminals "are very well prepared and very well motivated," Sartori said, noting that some arrests involved catching hackers at universities who were on the way to take exams.
+
+> In Russia, the lack of legitimate high-tech jobs is another cause for increased cyber crime rates.
+
+> "In Russia and other former Soviet Union and Eastern European economies, top university graduates are reportedly paid by organized crimes up to **10 times** more than from legitimate jobs," he said.
+
+With the advent of the Internet of Things (IoT) that allow items such as everyday household appliances to become *Internet enabled*, they become a potential target for threat actors to wreck havok using these appliances to launch attacks against corporations or entities for money.
+
+The potential risk to reward ratio of engaging in cybercrime is seen as attractive to people who are unable to find a job or get money- as there are many safeguards one can use to mask or hide the criminal's traces, the reward would be perceived as high(er) where the risk is low. Until it is possible to reduce the reward and increase the risk, cybercrime will continue to be perceived as a very successful industry to engage in certain parts of the world.
 
 Whether or not it's seen as a game to certain people, as long as the venture is seen as profitable... The threat is real, and no end is in sight.
