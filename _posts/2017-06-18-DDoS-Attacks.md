@@ -27,7 +27,7 @@ Why do we allow people to launch attacks like this in the first place?
 I'll tell you right now- money and regulation.
 
 
-<h3> Money </h3>
+<h2> Money </h2>
 
 Imagine you're walking down the street in a eastern European country, for example.
 You've had a hard day at work- your boss yelling at you all day for being "incompetent", and your coworkers shunning you because you are "too hard of a worker" and "make them look bad"- you just want to get home.
@@ -52,7 +52,7 @@ Of course, there are ways to mitigate these attacks in the form of DDoS protecti
 
 Granted, the dream a lot of us have involves making it big, having a sizeable house of our own, (possibly) married with kids and more money-than-you-can-shake-a-stick at in the bank. While most of us are engaged in perfectly legal methods of making money, some resort to less-than-savoury ideals, and may get caught- such as [Krebs on Security's article](https://krebsonsecurity.com/2017/04/the-backstory-behind-carder-kingpin-roman-seleznevs-record-27-year-prison-sentence/) or [this article](https://krebsonsecurity.com/2011/08/flashy-cars-got-spam-kingpin-mugged/). The articles I linked is more on the extreme side of cybercrime- but the grunts on the very bottom of the foodchain may be your regular person just trying to make a living. Not being able to put food on the table each day may be a huge motivator for some people driven to commit crime, and cybercrime is no different, especially when people are acting being proxies or using ways to hide their tracks.
 
-<h3> Regulations and Laws </h3>
+<h2> Regulations and Laws </h2>
 
 Less developed nations (such as those in eastern Europe) may not be able to catch up with the advances made in Internet technology, which leaves those countries rife for issues in being able to curb cybercrime. 
 
@@ -70,7 +70,7 @@ A consequence of lack of law enforcement or regulations is what drives some peop
 
 With the advent of the Internet of Things (IoT) that allow items such as everyday household appliances to become *Internet enabled*, they become a potential target for threat actors to wreck havok using these appliances to launch attacks against corporations or entities for money.
 
-<h3> Afterthought </h3>
+<h2> Afterthought </h2>
 
 The potential risk to reward ratio of engaging in cybercrime, whether through DDoS attacks or malware attacks, is seen as attractive to people who are unable to find a job or get money- as there are many safeguards one can use to mask or hide the criminal's traces, the reward would be perceived as high(er) where the risk is low. Until it is possible to reduce the reward and increase the risk, cybercrime will continue to be perceived as a very successful industry to engage in certain parts of the world.
 
