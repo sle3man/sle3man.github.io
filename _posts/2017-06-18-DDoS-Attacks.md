@@ -5,13 +5,16 @@ date: 2017-06-18 16:39
 ---
 *Last edited: 28 July 2017*
 
-[http://www.securitywizardry.com/images/stories/cartoons/2ddos.gif](http://www.securitywizardry.com/images/stories/cartoons/2ddos.gif)
+![http://www.securitywizardry.com/images/stories/cartoons/2ddos.gif](/assets/2ddos.gif)
+
+Source: http://www.securitywizardry.com/index.php/tools/security-cartoons.html, Joy of Tech
 
 It's interesting how a comic from 17 years ago is still relevant today: Servers and networks that can be brought down to a halt by anyone with a computer connected to the Internet- whether old, young, or in between, Distributed Denial of Service (DDoS) attacks are still real and a menace to networks and the Internet as a whole. 
 
 Casually going through the first page of a *DuckDuckGo* search on DDoS attacks in the past month will reveal that DDoS attacks are still around and may have financial, legal, and business repercussions.
 
-[Searching for DDoS material](/assets/ddos%20searches.png)
+![Searching for DDoS material](/assets/ddos%20searches.PNG)
+
 
 As noted in the screenshot, a couple of the results are related to DDoS attacks using IoT, a news site, *Al Jazeera*, and DdoS attacks on Bitcoin merchants.
 
@@ -67,6 +70,8 @@ A consequence of lack of law enforcement or regulations is what drives some peop
 
 With the advent of the Internet of Things (IoT) that allow items such as everyday household appliances to become *Internet enabled*, they become a potential target for threat actors to wreck havok using these appliances to launch attacks against corporations or entities for money.
 
-The potential risk to reward ratio of engaging in cybercrime is seen as attractive to people who are unable to find a job or get money- as there are many safeguards one can use to mask or hide the criminal's traces, the reward would be perceived as high(er) where the risk is low. Until it is possible to reduce the reward and increase the risk, cybercrime will continue to be perceived as a very successful industry to engage in certain parts of the world.
+<h3> Afterthought </h3>
+
+The potential risk to reward ratio of engaging in cybercrime, whether through DDoS attacks or malware attacks, is seen as attractive to people who are unable to find a job or get money- as there are many safeguards one can use to mask or hide the criminal's traces, the reward would be perceived as high(er) where the risk is low. Until it is possible to reduce the reward and increase the risk, cybercrime will continue to be perceived as a very successful industry to engage in certain parts of the world.
 
 Whether or not it's seen as a game to certain people, as long as the venture is seen as profitable... The threat is real, and no end is in sight.
