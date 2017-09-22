@@ -28,12 +28,20 @@ The main points I want to touch upon include: friendship, networking opportuniti
 
 
 **Friendship**
-Things are usually more fun with friends- watching a movie, eating at a restaurant, playing Mario Kart- school is no different. I noticed during my first orientation week that people are less on edge than the rest of the school year, which makes sense as students wouldn't be bombarded or preoccupied by tests, labs, assignments, practice questions, or exams. Granted, there are other pressures such as figuring out if they'll get into the course they want, nervousness at whether or not they'll do well or pass in the upcoming year, and other things, but I think orientation is the best way to make friends in post-secondary as this is *probably one of the few times students will be able to be themselves and not nose-deep in notes/courses*.
+
+Things are usually more fun with friends- watching a movie, eating at a restaurant, playing Mario Kart- school is no different. I noticed during my first orientation week that people are less on edge than the rest of the school year, which makes sense as students wouldn't be bombarded or preoccupied by tests, labs, assignments, practice questions, or exams. Granted, there are other pressures such as figuring out if they'll get into the course they want, nervousness at whether or not they'll do well or pass in the upcoming year, or strange orientation schedules and other things, but I think orientation is the best way to make friends in post-secondary as this is *probably one of the few times students will be able to be themselves and not nose-deep in notes/courses*.
+
+Some of the contacts I made during orientation still keep in touch with me, and for better or for worse, I think orientation is a great way to make lifelong connections.
 
 **Networking**
-To segue from friendship would be networking. 
+
+To segue from friendship would be networking. While some people may not call acquaintanceship as "friendship", perhaps the contacts a student might make could fall under the "networking" camp.
 
 
+**Character Building**
+
+
+**Fun!**
 
 
 *Full disclosure: my ex
