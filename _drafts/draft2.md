@@ -4,7 +4,7 @@ title: Orientation Day/Week + You!
 date: 2017-09-17 20:34
 ---
 
-*Last edited: 22 September 2017*
+*Last edited: 25 September 2017*
 
 It's that time of year again when all the students return to school, to start another year of educational fun and hopefully satisfy
 whatever goal it is they are trying to meet.
@@ -33,9 +33,14 @@ Things are usually more fun with friends- watching a movie, eating at a restaura
 
 Some of the contacts I made during orientation still keep in touch with me, and for better or for worse, I think orientation is a great way to make lifelong connections.
 
+
 **Networking**
 
-To segue from friendship would be networking. While some people may not call acquaintanceship as "friendship", perhaps the contacts a student might make could fall under the "networking" camp.
+To segue from friendship would be networking. While some people may not call acquaintanceship as "friendship", perhaps the contacts a student might make could fall under the "networking" camp. 
+
+I believe orientation is, without a doubt, a great way to make new contacts. Since orientation is a great time to meet people during a period when they're "themselves" or a little less tense, I got the chance to meet people for who they really are, or who they are outside of school. I did meet a few interesting characters, to put it lightly.
+
+These contacts that a student might make may ultimately be the people that would help them through school, provide moral support, or even find them a job. Of course, it's not 
 
 
 **Character Building**
