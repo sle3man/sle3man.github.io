@@ -40,13 +40,17 @@ To segue from friendship would be networking. While some people may not call acq
 
 I believe orientation is, without a doubt, a great way to make new contacts. Since orientation is a great time to meet people during a period when they're "themselves" or a little less tense, I got the chance to meet people for who they really are, or who they are outside of school. I did meet a few interesting characters, to put it lightly.
 
-These contacts that a student might make may ultimately be the people that would help them through school, provide moral support, or even find them a job. Of course, it's not 
+These contacts that a student might make may ultimately be the people that would help them through school, provide moral support, or even find them a job. Of course, it's not simply a one-way street. Your contacts may also rely on you to refer them to a job or career.
 
 
-**Character Building**
+**Character Building and Fun!**
 
+While networking and friendship is fun and all, character building is also a result of going through orientation. By going through all the exciting exercises and team-building activities you may learn a thing or two about yourself.
 
-**Fun!**
+I had a load of fun when I did my undergraduate orientation. I recall going on a horse and ferry ride, doing lots of dances, cheers, finding my way through a corn maze in the dark, and splattering paint on my very own frosh coveralls! At the end there was a "dance" but most of us didn't dance, we just moved around to the beat. There was a lot of food in between sessions, too!
 
+I got a chance to meet the fellow peers I would take most of the same classes with for the next 4 years, and while I may have lost contact with some of the people I met during orientation, it definitely was a great time.
+
+Did you enjoy your orientation?
 
 *Full disclosure: my ex
