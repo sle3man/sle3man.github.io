@@ -4,7 +4,7 @@ title: Orientation Day/Week + You!
 date: 2017-09-17 20:34
 ---
 
-*Last edited: 25 September 2017*
+*Last edited: 1 October 2017*
 
 It's that time of year again when all the students return to school, to start another year of educational fun and hopefully satisfy
 whatever goal it is they are trying to meet.
