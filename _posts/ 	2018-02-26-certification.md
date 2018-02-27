@@ -4,8 +4,7 @@ title: Passed! A Tale of Certification Woes and Woos
 date: 2018-02-26 23:36
 ---
 
-Earlier this month, I managed to pass the CompTIA CSA+ (now called CySa+) exam! It was the result of about half a year of studying after passing
-the Network+ exam!
+Earlier this month, I managed to pass the CompTIA CSA+ (now called CySa+) exam! It was the result of about half a year of studying after passing the Network+ exam. I have since doubled the amount of IT certifications I possess.
 
 I felt a bit of burnout after taking the Network+ but pulled my bootstraps and notified my boss of my intent to take the next exam of my choice.
 So I sent an email in, and was asked to give a little information about the exam seeing how it was just released earlier in the year
