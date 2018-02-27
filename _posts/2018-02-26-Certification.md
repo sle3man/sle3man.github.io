@@ -54,7 +54,7 @@ that displays my score and the exam objective categories in which I incorrectly 
 They told me there was a printer error and to contact CompTIA directly, so I did just that. 
 
 After my exam and interaction with the administrators I contacted my friend to see if he was available for
-some celebratory chicken wings (For some strange reason I picked up an affinity for wings laterly...) but received no response.
+some celebratory chicken wings (For some strange reason I picked up an affinity for wings lately...) but received no response.
 Later I found out they read my message but misinterpreted thinking I wanted them to be at a certain location in 15 minutes from
 the time they read my message! No, I wanted them to reply saying if they were available or not by 15 minutes.
 
