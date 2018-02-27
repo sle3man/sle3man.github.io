@@ -37,9 +37,8 @@ and a ton of multiple choice questions to follow. I powered through the applicat
 I made some errors or omissions here and there on the application questions but not too glaringly bad. There was one part
 I wasn't too sure about though... The multiple choice questions were a different beast. Most of the questions were
 scenario-based which required reading paragraph-long questions and answering them with multiple choice responses that were
-a doozy to read through. I must note that during the exam there were kids (like 6) outside the room I was doing the test in
-that were very loud within earshot. Multiple Google reviews of the establishment have confirmed that and while the administrators
-claimed to do something about it, my ears were still assaulted by the vocalizations of these kids.
+a doozy to read through. I must note that during the exam there were kids (like 6 year old) outside the room I was doing the test in that were very loud within earshot. Multiple Google reviews of the establishment have confirmed that and while the administrators claimed to do something about it as a response to the review, my ears were still assaulted by the 
+vocalizations of these kids.
 
 I've noticed, and other test-takers have noticed that the CSA+ exam tests a particular part of your knowledge and practical experience
 with cybersecurity. I thought it was a great exam with a good mix of questions testing both. Where Security+ tests the "what you know
