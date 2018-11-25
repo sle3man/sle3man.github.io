@@ -25,7 +25,7 @@ The same thing applies to the case of a PDF document- an unscrupulous user or so
 stumble upon a seemingly content-rich in a folder on someone's computer. It's located in the "documents" folder and doesn't have any indication it'd be bugged. In this case 
 we have something called a "honeypot document" or "honeydoc" that entices the user into accessing the delicious contents inside. 
 
-![Canary token PDF doc]((/assets/canary4.png)
+![Canary token PDF doc](/assets/canary4.png)
 
 The interesting thing is that the document by default is blank. I'm sure it's possible to edit the document with content to make it more convincing, but I didn't try to edit with 
 a PDF editor, however, I did try to edit the document using Word and then exported it to a PDF- whatever the conversion did, the token no longer was in the document as I didn't 
@@ -34,7 +34,7 @@ get any email alerts regarding document access.
 It should also be mentioned that the PDF honeydoc should be opened in Adobe Reader- I tried to open it with my PDF reader of choice, Sumatra PDF, but no email alerts were sent.
 I then went to download Adobe Reader and tried to open the PDF... and received a warning asking the following:
 
-![Canary token PDF doc]((/assets/canary5.png)
+![Canary token PDF doc](/assets/canary5.png)
 
 In the Thinkst blog article I linked above, they mention that "the PDF document will trigger a notification by Adobe Reader regardless of whether the user allows network communications!"
 and it was true- I clicked on "block" and still got an email alert about it. Very nifty!
