@@ -5,12 +5,12 @@ date: 2018-11-25 16:15
 ---
 
 Yesterday night while going through [cybersecurity Black Friday deals](https://pastebin.com/aLBfQT6H) I stumbled upon something really interesting called [Canary Tokens](https://canarytokens.org/generate) by Thinkst. 
-According to the deal on the Pastebin paste, you can get "Unlimited canary tokens free till heat death of Universe". I'm a bit fan of having free things until the *heat death of the universe* so I decided to check it out.
+According to the deal on the Pastebin paste, you can get "Unlimited canary tokens free till heat death of Universe". I'm a big fan of having free things until the *heat death of the universe* so I decided to check it out.
 
 When you access the Canary token generator, you are greeted with a fairly non-descript page to generate a token.
 ![Canary token generator](/assets/canary1.PNG)
 
-"What is a Canary token", you may ask? [This link explains it fairly well](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html) but essentially a Canary token
+"What is a Canary token", you may ask? [This blog article explains it fairly well](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html) but essentially a Canary token
 is like a piece of code placed inside of a file or document that communicates back to the creator of the token when the file/document is accessed, kind of like a honeypot.
 
 I first tried the token out by creating a web bug or web beacon. The form asks for an email address to notify when the bug is accessed or viewed- usually it's a 1x1 pixel that is 
@@ -39,8 +39,9 @@ I then went to download Adobe Reader and tried to open the PDF... and received a
 In the Thinkst blog article I linked above, they mention that "the PDF document will trigger a notification by Adobe Reader regardless of whether the user allows network communications!"
 and it was true- I clicked on "block" and still got an email alert about it. Very nifty!
 
-The blog article also describes other uses for the tokens.
+The [blog article](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html) also describes other uses for the tokens, so be sure to check it out!
 
+<h2>Afterthought:</h2>
 You may also be wondering why I thought about putting a tracking thing in a PDF document- let's say for example you want to know how many people are accessing your documents that you put up online- like a research paper, resume, or public financial information. Since there's a popup that asks if you want to "allow" a connection after opening a PDF, I think it might raise a few eyebrows. I was hoping it would do it all silently, but no matter. As mentioned earlier, you'd still be able to keep tabs on who's opening your documents since the system will perform a DNS query for the link that the PDF in question tries to access, as DNS queries won't get blocked (unless you actively disallow this in your HOSTS configuration or do something to the effect of blocking DNS queries to canary-related domains).
 
 In the words of Neil Buchanan of *Art Attack*- ***try it yaself!***
