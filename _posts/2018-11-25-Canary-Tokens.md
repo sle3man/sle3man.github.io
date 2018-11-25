@@ -41,4 +41,6 @@ and it was true- I clicked on "block" and still got an email alert about it. Ver
 
 The blog article also describes other uses for the tokens.
 
+You may also be wondering why I thought about putting a tracking thing in a PDF document- let's say for example you want to know how many people are accessing your documents that you put up online- like a research paper, resume, or public financial information. Since there's a popup that asks if you want to "allow" a connection after opening a PDF, I think it might raise a few eyebrows. I was hoping it would do it all silently, but no matter. As mentioned earlier, you'd still be able to keep tabs on who's opening your documents since the system will perform a DNS query for the link that the PDF in question tries to access, as DNS queries won't get blocked (unless you actively disallow this in your HOSTS configuration or do something to the effect of blocking DNS queries to canary-related domains).
+
 In the words of Bill Buchanan of *Art Attack*- ***try it yaself!***
