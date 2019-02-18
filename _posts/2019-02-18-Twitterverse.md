@@ -16,7 +16,7 @@ obtaining live twitter posts based on keywords you provide.
 
 In regards to infosec, Twitterfall a great way of staying current with the latest trends and issues revolving around the field:
 
-![Twitterfall](/assets/twitterfall.png)
+![Twitterfall](/assets/twitterfall.PNG)
 
 There are also [alternatives to Twitterfall](https://www.topbestalternatives.com/twitterfall/)
  like the Twitter Fountain or TweetBeam.
