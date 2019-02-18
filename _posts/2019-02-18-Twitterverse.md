@@ -26,10 +26,8 @@ Who would have thought that it would be necessary to verify with a phone number 
 
 I suppose with a large social networking site like Twitter, there would be the problem of automated accounts and whatnot.
 
-Despite all this, I eventually made another account and you can follow me here:
-[https://twitter.com/CogInfoSec](https://twitter.com/CogInfoSec)
-
-When I started following a bunch of people in the infosec industry over a short period of time, this happened:
+Despite all this, I eventually made another account and have been re-tweeting, liking, and posting content since!
+As a sidenote, when I started following a bunch of people in the infosec industry over a short period of time, this happened:
 
 ![Locked account](/assets/locked.png)
 
