@@ -29,7 +29,7 @@ MEGA also has a convenient session history section and as you can see here-
 
 I can confirm I was nowhere in any of the countries listed in a 24-hour timespan when the file was uploaded- that an external party compromised my account and likely uploaded "cryptocurrencies.zip" to my account.
 
-![Date the file was uploaded](/assets/mega_compromise/session2.png)
+![Date the file was uploaded](/assets/mega_compromise/session2.PNG)
 
 
 
