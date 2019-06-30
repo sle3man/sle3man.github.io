@@ -8,7 +8,7 @@ Earlier this week, I went to a cottage with some friends- we did kayaking, barbe
 
 It was a great deal of fun.
 
-What wasn't fun was when I decided to use [MEGA](https://www.mega.nz) and upload the photos I took in full resolution to my friends.
+What wasn't fun was when I decided to use [MEGA](https://www.mega.nz) to upload the photos I took in full resolution to my friends.
 
 Ok you might be wondering about the title- No, MEGA was not breached. My account was, though.
 
@@ -19,7 +19,7 @@ It all happened when I noticed a strange "cryptocurrencies.zip" folder in the fi
 
 Curious, I downloaded the file and there was an executible inside. Tempted to blow it up in my malware sandbox, my suspicions were confirmed when uploading to VT gave me a bunch of hits for a TROJAN HORSE ([VT link](https://www.virustotal.com/gui/file/615e3fc9b983cd5697f0e6e1496d5b3266695a39a26f897c8619fb562136817a/detection)).
 
-Hahaha, nice try!
+Hahaha, nice try black hats!
 
 
 MEGA also has a convenient session history section and as you can see here-
@@ -42,6 +42,8 @@ With the password from the database dump, I can imagine the attacker utilized a 
 So I can imagine that once the attacker was successful with the email and password pair, they uploaded a file in the hopes that the victim will open it up. 
 
 
-The whole ordeal gave me a brief spook but there's nothing to worry about, to be honest. I don't think the files I had on there were accessed as it feels like the compromise was automated. Moral of the story? Use a password manager and multifactor authentication when possible!
+The whole ordeal gave me a brief spook but there's nothing to worry about, to be honest. I don't think the files I had on there were accessed as it feels like the compromise was automated. 
 
-If you'd like some recommendations for password managers (I'd go with paid ones since free services might not actually be free, where *you* are the product) check out this [PCWorld link](https://www.pcmag.com/roundup/300318/the-best-password-managers)!
+Moral of the story? Use a password manager and multifactor authentication when possible!
+
+If you'd like some recommendations for password managers (I'd go with paid ones since free services might not actually be free, where *you* are the product) check out this [PCWorld link](https://www.pcmag.com/roundup/300318/the-best-password-managers)! Granted, password managers [have their own issues/vulnerabilities](https://devd.me/papers/pwdmgr-usenix14.pdf) (PDF) but the costs outweigh the benefits- using strong passwords is the first step towards better online security.
