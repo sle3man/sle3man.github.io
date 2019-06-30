@@ -33,7 +33,7 @@ I can confirm I was nowhere in any of the countries listed in a 24-hour timespan
 
 
 
-<h2> How did it happen? <h2>
+<h2> How did it happen? </h2>
 
 The most likely scenario: since the email I was using was seen in HIBP, attacker(s) got a hold of my password from a database dump. Of course, this should indicate to you that password reuse is *very bad* and that *you should never do it* but hey, this was a while ago and these days I use a password manager now with randomly generated passwords and multifactor authentication (MFA)!
 
