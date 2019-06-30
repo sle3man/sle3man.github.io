@@ -35,7 +35,7 @@ I can confirm I was nowhere in any of the countries listed in a 24-hour timespan
 
 <h2> How did it happen? </h2>
 
-The most likely scenario: since the email I was using was seen in HIBP, attacker(s) got a hold of my password from a database dump. Of course, this should indicate to you that password reuse is *very bad* and that *you should never do it* but hey, this was a while ago and these days I use a password manager now with randomly generated passwords and multifactor authentication (MFA)!
+The most likely scenario: since the email I was using was seen in [HIBP](https://haveibeenpwned.com), attacker(s) got a hold of my password from a database dump. Of course, this should indicate to you that password reuse is *very bad* and that *you should never do it* but hey, this was a while ago and these days I use a password manager now with randomly generated passwords and multifactor authentication (MFA)!
 
 With the password from the database dump, I can imagine the attacker utilized a combination of a [credential stuffing](https://www.owasp.org/index.php/Credential_stuffing) and [password spraying attack](https://www.triaxiomsecurity.com/2018/11/08/password-spraying-attack/), sort of a hail mary approach with leaked credentials from various sources to try every email in the database they've extracted with the associated password in the dump to see if access is granted.
 
