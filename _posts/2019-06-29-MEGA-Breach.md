@@ -46,4 +46,4 @@ The whole ordeal gave me a brief spook but there's nothing to worry about, to be
 
 Moral of the story? Use a password manager and multifactor authentication when possible!
 
-If you'd like some recommendations for password managers (I'd go with paid ones since free services might not actually be free, where *you* are the product) check out this [PCWorld link](https://www.pcmag.com/roundup/300318/the-best-password-managers)! Granted, password managers [have their own issues/vulnerabilities](https://devd.me/papers/pwdmgr-usenix14.pdf) (PDF) but the costs outweigh the benefits- using strong passwords is the first step towards better online security.
+If you'd like some recommendations for password managers (I'd go with paid ones since free services might not actually be free, where *you* are the product) check out this [PCMag link](https://www.pcmag.com/roundup/300318/the-best-password-managers)! Granted, password managers [have their own issues/vulnerabilities](https://devd.me/papers/pwdmgr-usenix14.pdf) (PDF) but the costs outweigh the benefits- using strong passwords is the first step towards better online security.
