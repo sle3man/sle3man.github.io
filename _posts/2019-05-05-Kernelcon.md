@@ -20,12 +20,12 @@ ask yourself, "The Linux kernel?" or "popcorn kernels?" maybe both!
 
 According to the Kernelcon site: 
 <p>
-Kernelcon is the result of many motivated information security professionals
+"Kernelcon is the result of many motivated information security professionals
  who recognized the opportunity to create an awesome security conference in Omaha.
  The idea for Kernelcon started within the local DEF CON Group, DC402, with lots of
  help from other members of other local security groups such as NebraskaCERT and OWASP.
  We are inspired by many other conferences including DEF CON, DerbyCon, ShmooCon, etc.,
- and wanted to bring those same experiences to the Mid-West here in Omaha.
+ and wanted to bring those same experiences to the Mid-West here in Omaha."
 </p>
 
 I've been to a handful of conferences in the past- SecTOR, BSides Toronto, BSides Rochester, Shmoocon, and SplunkLive!, and
