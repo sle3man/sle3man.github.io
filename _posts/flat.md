@@ -14,3 +14,8 @@ title: Claire's Cybersecurity Corner // FKP - Flat Keanu Project
 
   Pictures to come!
   
+{% slider %}
+  ![Las Vegas, March 2018](../assets/fkp/IMG_201803.JPG)
+  ![Getting ready to go to California, January 2017](../assets/fkp/IMG_20170116_123330.JPG)
+  ![Sushi in Vancouver, January 2017](../assets/fkp/IMG_20170116_212756.jpg)
+{% endslider %}
