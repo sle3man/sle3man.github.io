@@ -2,10 +2,9 @@
   bullets: false
   captions: true
   images:
-
     - src: /assets/fkp/IMG_20170116_123330.jpg
       alt: Waiting for the plane to Vancouver, 2017 
-    - data-src: /assets/fkp/IMG_20170117_172305.jpg
+    - data-src: /assets/fkp/IMG_20170116_212756.jpg
       alt: Enjoying some sushi, 2017
     - data-src: /assets/fkp/IMG_201803.jpg
       alt: Las Vegas, 2018
@@ -15,7 +14,7 @@
     maxHeight:
     interval:
     transitionDuration:
-    effect:
+    effect: "'fade'"
     disableNav:
     keyboardNav:
     previousNavSelector:
