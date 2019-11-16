@@ -1,0 +1,22 @@
+- selector: fkp_slider 
+  bullets: false
+  captions: true
+  images:
+
+    - src: /assets/IMG_20170116_123330.jpg
+      alt: Waiting for the plane to Vancouver, 2017 
+    - data-src: /assets/fkp/IMG_20170117_172305.jpg
+      alt: Enjoying some sushi, 2017
+    - data-src: /assets/IMG_201803.jpg
+      alt: Las Vegas, 2018
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
