@@ -9,27 +9,12 @@
         <link rel="stylesheet" type="text/css" href="../_plugins/Ideal-Image-Slider-JS-master/ideal-image-slider.css">
         <link rel="stylesheet" type="text/css" href="../_plugins/Ideal-Image-Slider-JS-master/themes/default/default.css">
 	</head>
-	<!-- Slider -->
-    <script src="../_plugins/Ideal-Image-Slider-JS-master/ideal-image-slider.min.js"></script>
-    <script src="../_plugins/Ideal-Image-Slider-JS-master/extensions/bullet-nav/iis-bullet-nav.js"></script>
-    <script src="../_plugins/Ideal-Image-Slider-JS-master/extensions/bullet-nav/captions/iis-captions.js"></script>
-    <!-- Sliders on pages -->
-    {% for script in page.iis_slider_scripts %}
-        {{ script }}
-    {% endfor %}
-    <!-- Sliders on indexes -->
-    {% for post in paginator.posts %}
-      {% for script in post.iis_slider_scripts %}
-        {{ script }}
-      {% endfor %}
-    {% endfor %}
 	<body>
 		<!-- <h1>Claire's Cybersecurity Corner</h1> !-->
 		<nav>
     		<ul>
         	    <li><a href="/">Home</a></li>
                 <li><a href="/blog">Blog</a></li>
-                <li><a href="/flat">FKP</a></li>
 	        	<li><a href="/about">About</a></li>
     		</ul>
 		</nav>
@@ -46,5 +31,19 @@
 			<li><a href="/blog/atom.xml">Blog RSS</a></li>
 			</ul>
 		</footer>
+    <!-- Slider -->
+    <script src="../_plugins/Ideal-Image-Slider-JS-master/ideal-image-slider.min.js"></script>
+    <script src="../_plugins/Ideal-Image-Slider-JS-master/extensions/bullet-nav/iis-bullet-nav.js"></script>
+    <script src="../_plugins/Ideal-Image-Slider-JS-master/extensions/bullet-nav/captions/iis-captions.js"></script>
+    <!-- Sliders on pages -->
+    {% for script in page.iis_slider_scripts %}
+        {{ script }}
+    {% endfor %}
+    <!-- Sliders on indexes -->
+    {% for post in paginator.posts %}
+      {% for script in post.iis_slider_scripts %}
+        {{ script }}
+      {% endfor %}
+    {% endfor %}
 	</body>
 </html>
