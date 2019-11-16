@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Claire's Cybersecurity Corner // FKP - Flat Keanu Project 
+date: 2019-11-15 22:42
 ---
   Ah, yes, the Flat Keanu project. An offshoot of the <a href="https://en.wikipedia.org/wiki/Flat_Stanley">Flat Stanley project</a>.
   
@@ -12,7 +13,7 @@ title: Claire's Cybersecurity Corner // FKP - Flat Keanu Project
 
   on a bench eating a sandwich alone, also dubbed <a href="https://knowyourmeme.com/memes/sad-keanu">*Sad Keanu*</a>
 
-  Pictures to come!
+  Check back later, this page is updated semi-frequently! 
   
 {% slider %}
   ![Las Vegas, March 2018](../assets/fkp/IMG_201803.JPG)
