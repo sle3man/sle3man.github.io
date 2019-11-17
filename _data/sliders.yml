@@ -1,5 +1,5 @@
 - selector: fkpslider 
-  bullets: false
+  bullets: true 
   captions: true
   images:
     - src: /assets/fkp/IMG_20170116_123330.jpg
@@ -9,5 +9,10 @@
     - src: /assets/fkp/IMG_201803.JPG
       alt: Las Vegas, 2018
   settings:
-    height: 1080 
+    height: '720'
+    interval: ''
+    transitionDuration: ''
+    effect: "'fade'"
     keyboardNav: true
+    previousNavSelector: ''
+    nextNavSelector: ''
