@@ -12,6 +12,7 @@
 <script src="/assets/js/slider/ideal-image-slider.min.js"></script>
 <script src="/assets/js/slider/iis-bullet-nav.js"></script>
 <script src="/assets/js/slider/iis-captions.js"></script>
+  <script>
   {% for selector in iis_slider_array -%}
     {%- assign slider = site.data.sliders | where:"selector",selector | first -%}
     {%- assign settings = slider.settings -%}
@@ -56,4 +57,5 @@
     {% endif -%}
     {{ slider.selector }}.start();
   {% endfor -%}
+  </script>
 {%- endif -%}
