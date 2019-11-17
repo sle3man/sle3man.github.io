@@ -1,5 +1,6 @@
 <!-- Jekyll Ideal Image Slider Include -->
 <!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
 <!-- v1.8 -->
-<link rel="stylesheet" href="https://github.com/Codeinwp/Ideal-Image-Slider-JS/raw/master/ideal-image-slider.css">
-<link rel="stylesheet" href="https://github.com/Codeinwp/Ideal-Image-Slider-JS/raw/master/themes/default/default.css">
+{% if page.image_sliders or layout.image_sliders or page.image_sliders_load_all -%}
+<link rel="stylesheet" href="/assets/css/slider/ideal-image-slider.css">
+<link rel="stylesheet" href="/assets/css/slider/themes/default.css">

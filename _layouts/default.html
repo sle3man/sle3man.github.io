@@ -5,9 +5,7 @@
 		
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<!-- Slider CSS -->
-        <link rel="stylesheet" href="https://github.com/Codeinwp/Ideal-Image-Slider-JS/raw/master/ideal-image-slider.css">
-		<link rel="stylesheet" href="https://github.com/Codeinwp/Ideal-Image-Slider-JS/raw/master/themes/default/default.css">
+		{% include slider_styles.html %}
 	</head>
 	<body>
 		<!-- <h1>Claire's Cybersecurity Corner!!</h1> !-->
@@ -32,21 +30,6 @@
 			<li><a href="/blog/atom.xml">Blog RSS</a></li>
 			</ul>
 		</footer>
-	<!-- Slider -->
-	{% if page.iis_slider_active %}
-        <script src="https://github.com/Codeinwp/Ideal-Image-Slider-JS/raw/master/ideal-image-slider.js"></script>
-        <script src="https://github.com/Codeinwp/Ideal-Image-Slider-JS/raw/master/extensions/bullet-nav/iis-bullet-nav.js"></script>
-        <script src="https://github.com/Codeinwp/Ideal-Image-Slider-JS/raw/master/extensions/captions/iis-captions.js"></script>
-        <!-- Sliders on pages -->
-        {% for script in page.iis_slider_scripts %}
-        {{ script }}
-        {% endfor %}
-        <!-- Sliders on indexes -->
-        {% for post in paginator.posts %}
-          {% for script in post.iis_slider_scripts %}
-            {{ script }}
-          {% endfor %}
-    	{% endfor %}
-    {% endif %}
+        {% include slider_scripts.html %}
 	</body>
 </html>
