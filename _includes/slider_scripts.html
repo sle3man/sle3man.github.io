@@ -12,7 +12,6 @@
   <script src="https://github.com/Codeinwp/Ideal-Image-Slider-JS/raw/master/ideal-image-slider.min.js"></script>
   <script src="https://github.com/Codeinwp/Ideal-Image-Slider-JS/raw/master/extensions/bullet-nav/iis-bullet-nav.js"></script>
   <script src="https://github.com/Codeinwp/Ideal-Image-Slider-JS/raw/master/extensions/captions/iis-captions.js"></script>
-  <script>
   {% for selector in iis_slider_array -%}
     {%- assign slider = site.data.sliders | where:"selector",selector | first -%}
     {%- assign settings = slider.settings -%}
@@ -57,5 +56,4 @@
     {% endif -%}
     {{ slider.selector }}.start();
   {% endfor -%}
-  </script>
 {%- endif -%}
