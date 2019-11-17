@@ -9,13 +9,5 @@
     - src: /assets/fkp/IMG_201803.JPG
       alt: Las Vegas, 2018
   settings:
-    height: 400
-    initialHeight:
-    maxHeight:
-    interval:
-    transitionDuration:
-    effect: "'fade'"
-    disableNav:
-    keyboardNav:
-    previousNavSelector:
-    nextNavSelector:
+    height: 1080 
+    keyboardNav: true
