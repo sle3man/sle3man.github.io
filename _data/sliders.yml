@@ -10,9 +10,9 @@
       alt: Las Vegas, 2018
   settings:
     height: '720'
-    interval: ''
-    transitionDuration: ''
+    interval:
+    transitionDuration:
     effect: "'fade'"
     keyboardNav: true
-    previousNavSelector: ''
-    nextNavSelector: ''
+    previousNavSelector:
+    nextNavSelector:
