@@ -1,4 +1,4 @@
-- selector: fkp_slider 
+- selector: fkpslider 
   bullets: false
   captions: true
   images:
