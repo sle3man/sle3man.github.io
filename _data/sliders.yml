@@ -30,7 +30,7 @@
       alt: In front of the Atlantic Ocean in Newport, Rhode Island, 2019
 
   settings:
-    height: 'auto'
+    height: "'auto'"
     interval:
     transitionDuration:
     effect: "'fade'"
