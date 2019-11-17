@@ -6,8 +6,29 @@
       alt: Waiting for the plane to Vancouver, 2017 
     - src: /assets/fkp/IMG_20170116_212756.jpg
       alt: Enjoying some sushi, 2017
-    - src: /assets/fkp/IMG_201803.JPG
+    - src: /assets/fkp/IMG_20170117_172305.jpg
+      alt: Overlooking the Laguna Hills, 2017
+    - src: /assets/fkp/IMG_20170122_183717.jpg
+      alt: Ready to eat some steak at the Claim Jumper in Costa Mesa, 2017
+    - src: /assets/fkp/IMG_20170123.PNG
+      alt: Flat Keanu contemplates over his star on the Hollywood Walk of Fame, 2017
+    - src: /assets/fkp/IMG_20170117_172305.jpg
       alt: Las Vegas, 2018
+    - src: /assets/fkp/IMG_20190404_133420.jpg
+      alt: Waiting for a flight to Omaha, Nebraska, 2019
+    - src: /assets/fkp/IMG_20190409_071827.jpg
+      alt: Overlooking the Even Hotels in Omaha, 2019
+    - src: /assets/fkp/IMG_20190409_082005.jpg
+      alt: Relaxing between the Iowa and Nebraska state borders, 2019
+    - src: /assets/fkp/IMG_20190409_082037.jpg
+      alt: Close-up
+    - src: /assets/fkp/IMG_20190418_221637.jpg
+      alt: On a plane back from Nebraska, 2019
+    - src: /assets/fkp/IMG_20190419_194111.jpg
+      alt: Showing some LOILTY. Edmonton, Alberta, 2019
+    - src: /assets/fkp/IMG_20190610_080510.jpg
+      alt: In front of the Atlantic Ocean in Newport, Rhode Island, 2019
+
   settings:
     height: '720'
     interval:
