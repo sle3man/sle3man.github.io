@@ -28,7 +28,9 @@
       alt: Showing some LOILTY. Edmonton, Alberta, 2019
     - data-src: /assets/fkp/IMG_20190610_080510.jpg
       alt: In front of the Atlantic Ocean in Newport, Rhode Island, 2019
-
+    - data-src: /assets/fkp/keanu_corners.jpg
+      alt: Keanu laments on how the sign was stolen, Punkeydoodles Corners, 2020
+      
   settings:
     height: 720
     interval:
