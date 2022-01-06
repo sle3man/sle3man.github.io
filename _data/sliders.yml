@@ -39,7 +39,7 @@
 
       
   settings:
-    height: 720
+    height: 900
     interval:
     transitionDuration:
     effect: "'fade'"
