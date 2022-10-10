@@ -66,7 +66,7 @@ Essentially the article states that one of the goals of "endless AI-generated sp
 
 The goal? Profit. That is why I mentioned the usage of SEO in that recipe site- the use of keywords and phrases injected into the site so search engines can correlate a user's Google or DDG searches and have it appear at the top of the search results if a user searches for those words. By being close or at the top of the results, the owner of the website can maximize their ad revenue.
 
-The article I linked from The Verge is from 2019. AI-generated content has gotten better since then. Instances such as [Midjourney AI](https://www.midjourney.com/home/) can illustrate the power of AI-generated art. ([There are also AI that can generate stories](https://rigorousthemes.com/blog/best-ai-story-generators/) based on what you tell it.  
+The article I linked from The Verge is from 2019. AI-generated content has gotten better since then. Instances such as [Midjourney AI](https://www.midjourney.com/home/) can illustrate the power of AI-generated art. [There are also AI that can generate stories](https://rigorousthemes.com/blog/best-ai-story-generators/) based on what you tell it.  
 
 
 The Verge article does offer an interest end-narrative, however, instead of a doomsday "technology will evolve so rapidly that we can't control it" scenario we can seek to harness it and use it for our bidding:
