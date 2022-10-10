@@ -69,7 +69,7 @@ The goal? Profit. That is why I mentioned the usage of SEO in that recipe site- 
 The article I linked from The Verge is from 2019. AI-generated content has gotten better since then. Instances such as [Midjourney AI](https://www.midjourney.com/home/) can illustrate the power of AI-generated art. [There are also AI that can generate stories](https://rigorousthemes.com/blog/best-ai-story-generators/) based on what you tell it.  
 
 
-The Verge article does offer an interest end-narrative, however, instead of a doomsday "technology will evolve so rapidly that we can't control it" scenario we can seek to harness it and use it for our bidding:
+The Verge article does offer an interesting end-narrative, however, instead of a doomsday "technology will evolve so rapidly that we can't control it" scenario we can seek to harness it and use it for our bidding:
 
 "The end-game of all this could be even more interesting though. AI-text generation is advancing in quality extremely quickly, and experts in the field think it could lead to some incredible breakthroughs. After all, if we can create a program that can read and generate text with human-level accuracy, it could gorge itself on the internet and become the ultimate AI assistant... Because if you’ve created an AI that can generate factually-correct text that’s indistinguishable from content written by humans, why bother with the humans at all?"
 
