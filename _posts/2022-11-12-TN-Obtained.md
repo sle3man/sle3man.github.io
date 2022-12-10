@@ -4,6 +4,8 @@ title: TN Status Obtained
 date: 2022-11-12 7:36
 ---
 
+*Last updated 10 December 2022*
+
 **Note**: Nothing in this post constitutes legal advice, nor should it be taken as a single source of truth. Do your research!
 
 Executive summary: Earlier last month I obtained TN status!!! It's basically work authorization that allows me to work in the US.
