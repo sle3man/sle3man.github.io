@@ -24,11 +24,17 @@ To start off I want to include some tips and tricks for getting on the other sid
 **Preparation**:
 - Look at various online resources and forum posts. You are probably not alone since many people apply for TN status every year. You may be able to find someone with a similar background and experience to yours that I might not cover during this post!
 - Make sure to have all the documents listed above with you. Before heading out to the POE keep a list of all the things you need to bring (this list is non-exhaustive and may vary depending on your situation):
+
 1) Offer and support letters from the prospective employer
+
 2) Bachelor's degree (or other required credential(s) according to the TN category requirements)
+
 3) University or college transcript, if applicable (usually required)
+
 4) Credential evaluation or translation, if applicable, and your degree was not granted in North America.
+
 5) Knowledge of where you'll be staying if you have a place to stay in the US lined up
+
 6) Any proof of ties you have to your home country (e.g., bank account statements, credit cards, retirement contributions, astronomy membership)
 
 **Miscellaneous**:
@@ -84,6 +90,7 @@ So I panicked. Got really stressed out. What was I to do?
 <h2> Action Plan </h2>
 
 After I was done panicking I explored 3 options:
+
 1) Officially move to Alberta and stay there for about 6 months, then come down again to see my fiancé. Repeat.
 
 2) Pursue higher education to get a study visa so I can stay longer
