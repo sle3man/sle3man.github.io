@@ -45,8 +45,11 @@ To start off I want to include some tips and tricks for getting on the other sid
 
 <h2> Relevant qualifications about me </h2>
 1) Hold a degree in Computing specializing in Cognitive Science
+
 2) Been in the cybersecurity field for 5-10 years
+
 3) My "new" role has to do with cloud security and development ("developer" is in the title), it's the same role as what I had for about 3.5 years, just as a US employee.
+
 4) I applied for the "Computer Systems Analyst" TN category and not "Engineer" category despite some of my role being related to software engineering. More on this in my story.
 
 Honestly a relevant degree, university transcript, offer letter, and support letter is all I needed!
@@ -82,8 +85,11 @@ So I panicked. Got really stressed out. What was I to do?
 
 After I was done panicking I explored 3 options:
 1) Officially move to Alberta and stay there for about 6 months, then come down again to see my fiancé. Repeat.
+
 2) Pursue higher education to get a study visa so I can stay longer
+
 3) Quit my job and find another that offers sponsorship
+
 
 I first explored option 1 and started looking at rentals in Alberta. That was actually what I was planning on doing after my 6-month stay in the US, just that instead of looking closer to the end of the 6 month period I was looking after 4 weeks. Prior to my roadtrip down from Ontario to Arizona, I packed everything up and put it all in a shipping container. To this day, I am still shelling out a little over US$100 a month to have it stored in a warehouse in Ontario :D
 
@@ -91,7 +97,7 @@ The rent in Alberta seemed fairly reasonable, and I was thinking of doing someth
 
 Option 2) for higher education was also considered, but it was already September when the news broke that I couldn't stay more than 6 weeks, so I would have needed to return to my home country either way so I could continue working. I'd be shooting for a start date of January, and I did see a couple cool programs at Arizona State University and Maricopa College.
 
-However, my grades weren't the best. Plus all the programs would not look at my graduate certificate grades (which I did way stellar compared to my bachlor's).
+However, my grades weren't the best. Plus all the programs would not look at my graduate certificate grades (which I did way stellar compared to my bachelor's).
 
 Option 3 wasn't in the cards because before the thought of finding employment elsewhere was put in my head, my boss and HR came up with the idea of potentially getting me work authorization.
 
@@ -127,9 +133,11 @@ Here's what I did during the month I was off:
 - Went to calgary
 
 ![the author and her fiancé climbing a mountain](/assets/tn_status/cute.png)
+
 Climbing Brown Mountain in Mesa, Arizona.
 
 ![meeting the lead singer of voxtrot](/assets/tn_status/voxtrot.png)
+
 Meeting one of my favourite bands in Minneapolis, Voxtrot!
 
 I tried to enjoy myself since it was my own personal time off, and I got to spend most of it with my fiancé which was great. I just did not like the negative thoughts hanging over my head about the upcoming interview the whole time.
@@ -140,7 +148,7 @@ A part of it may have been my fiancé trying to "coach" me to assume the worst c
 I didn't need many things to bring with me, but I still brought a couple essentials like a couple days' worth of clothing, my work and personal laptops, personal essentials. I was still assuming the worst case scenario where I might get stranded up in Canada and need to stay up there for a bit. Of course, I could also re-enter the US for tourism but I'd have to explain to my company that I was denied entry, and it was expected that I return to work in Canada at the end of my time off.
 
 In terms of documentation I brought with me:
-- My bachlor's degree with transcript
+- My bachelor's degree with transcript
 - My graduate certificate (this was not required but I brought it anyway)
 - Offer letter
 - Support letter
@@ -166,16 +174,19 @@ The cheapest next flight home was running the next day. A same day flight would 
 It was nice that I was able to order delivery and have it delivered to my hotel room. I got some sushi from a restaurant called Misai Japa Cafe and it was great.
 
 ![sushi](/assets/tn_status/sushi.jpg)
+
 Can you believe I ate all this that night? I can't either!
 
 <h2> The Day of the Interview </h2>
 
 When I woke up I was actually not hungry at all, it could have been a combination of all the sushi I had the previous night and the nervousness/anxiety/adrenaline I had in my system with the interview in a few hours. Eventually I did get a bit hungry and well, I skipped the complementary breakfast and had what I call, *the breakfast of champions*.:
 ![don't eat this for breakfast](/assets/tn_status/breakfastofchampions.jpg)
+
 I had this for breakfast. Don't do what I did.
 
 When it came time for the interview I tried to dress the part, see below:
 ![me in formalwear](/assets/tn_status/me.jpg)
+
 Dressing the part for an interview
 
 I then made it to the airport. The shoes I wore were definitely not for walking and every step I took was painful, but the motivation to look the part definitely kept me going. When I got to the airport I walked about 10 minutes the wrong way until I asked somebody and had to walk another 10 back. That was not fun.
@@ -197,7 +208,7 @@ After about 15 minutes of waiting I was eventually called over to one of the cou
 
 The agent had a neutral face. The questions they asked were thorough enough to the point where they got the answers they needed, but not intrusive enough to make me feel like I was put in a hotel room and interrogated with a bright lamp aimed at me for a straight hour (I might blog about this in another life... haha)
 
-The very first thing they asked was for my bachlor's degree. I carefully took it out of a reinforced cardboard tube and unfurled it. Handed it over to them for a copy.
+The very first thing they asked was for my bachelor's degree. I carefully took it out of a reinforced cardboard tube and unfurled it. Handed it over to them for a copy.
 
 They then proceeded to ask me questions about my offer letter, support letter, and also took my transcript.
 
@@ -226,6 +237,7 @@ And that was it. I then realized they didn't tell me where the exit was so I got
 I later went for more sushi that week to celebrate.
 
 ![The end result](/assets/tn_status/stamp.jpg)
+
 The end result of a multi-month effort
 
 <h2> Post-TN </h2>
