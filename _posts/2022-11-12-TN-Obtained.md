@@ -231,6 +231,24 @@ They also asked questions like:
 - "Do you have any direct reports?"
 - "Where will you be staying?"
 
+Note that I told them the category I was applying for was the "Computer Systems Analyst" category as the majority of my role involves "analysis of security processes and suggesting improvements to protect our customers from cyberattacks". I told the agent this and they seemed satisfied by my answer. I have read many forum posts to minimize the reference of development tasks, and even though my role has the word "developer" in the title, I would say about 90% of my time at work is spent mentoring, suggesting improvements and optimizations in processes, suggesting changes, documentation, troubleshooting our existing processes and detections. The other 10% would be actual coding, which I stressed was a very small part of my day-to-day.
+
+Heck, I even came up with a breakdown by percentage of my regular tasks:
+
+20% security and threat intelligence research and analysis
+
+20% troubleshooting/investigation tasks
+
+10% implementation in response to troubleshooting and investigation tasks
+
+20% documentation tasks
+
+30% mentorship
+
+The reason why I went with the Computer Systems Analyst category and not Engineer category is because there have been conflicts in the past regarding how "Software Engineering" is not considered under the Engineer category. It is open to interpretation by the individual agent, however, and there have been [guidance about this in historical memos](https://legalservicesincorporated.com/immigration/can-i-get-a-tn-visa-for-it-professional-can-tn-visas-be-issued-for-software-engineers-can-an-it-person-get-a-tn-visa-can-a-hardware-engineer-get-a-tn-visa/) but I didn't want to risk it and when I gave it more thought, felt that the Computer Systems Analyst category closely aligned more with my job: 
+
+"It is quite common for a person to be performing some degree of programming duties, which is something that all computer science and software engineers may do to some extent, even if their core duties revolve around designing software and hardware systems. However, mentioning that programming is part of the job duties may lead to the officer incorrectly classifying the position as a computer programmer job, which is not covered as a TN approved occupation."
+
 After a brief pause they told me to go to the counter at the corner to pay a US$50 fee for the application and then take a seat in the waiting area. 
 
 Eventually they called me up again and gave me back my passport, which had a stamp indicating TN status/work authorization. They also gave me instructions on how to get my i-94 form and handed me a small instructional sheet.
