@@ -233,7 +233,7 @@ They also asked questions like:
 - "Do you have any direct reports?"
 - "Where will you be staying?"
 
-Note that I told them the category I was applying for was the "Computer Systems Analyst" category as the majority of my role involves "analysis of security processes and suggesting improvements to protect our customers from cyberattacks". I told the agent this and they seemed satisfied by my answer. I have read many forum posts to minimize the reference of development tasks, and even though my role has the word "developer" in the title, I would say about 90% of my time at work is spent mentoring, suggesting improvements and optimizations in processes, suggesting changes, documentation, troubleshooting our existing processes and detections. The other 10% would be actual coding, which I stressed was a very small part of my day-to-day.
+Note that I told them the category I was applying for was the "Computer Systems Analyst" category as the majority of my role involves "analysis of security processes, creating threat detection systems and suggesting improvements to protect our customers from cyberattacks". I told the agent this and they seemed satisfied by my answer. I have read many forum posts to minimize the reference of development tasks, and even though my role has the word "developer" in the title, I would say about 90% of my time at work is spent mentoring, suggesting improvements and optimizations in processes, suggesting changes, documentation, troubleshooting our existing processes and detections. The other 10% would be actual coding, which I stressed was a very small part of my day-to-day.
 
 Heck, I even came up with a breakdown by percentage of my regular tasks:
 
@@ -275,6 +275,7 @@ After getting TN status I had a list to do the following:
 - Fill out paperwork for my employer
 - Change a bunch of old information in the HR system
 - Get "onboarded"
+- Get my i-94 form fixed (it was not updated when I got TN status and I had to contact CBP which took 3 weeks)
 - Get a SSN
 - Get a bank account
 - Get a credit card
