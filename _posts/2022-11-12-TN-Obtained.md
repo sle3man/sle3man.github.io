@@ -10,7 +10,7 @@ Executive summary: Earlier last month I obtained TN status!!! It's basically wor
 
 To start off I want to include some tips and tricks for getting on the other side of the interview with great success. This is from the perspective of myself, a Canadian IT worker. My personal story follows.
 
-<h2> Tips on getting approved for TN status </h2>
+<h1> Tips on getting approved for TN status </h1>
 
 **Getting all your paperwork in order**:
 - Have the conversation as early as possible with your prospective employer that you need work authorization to work in the US via TN status and if they can draft a support letter if you get hired. I would bring it up with the recruiter during the initial phone screen to ensure there are no issues with work authorization when getting the offer letter. Getting TN status arguably requires the least work compared to work visas to get into the US.
@@ -141,11 +141,11 @@ Here's what I did during the month I was off:
 
 ![the author and her fiancé climbing a mountain](/assets/tn_status/cute.png)
 
-Climbing Brown Mountain in Mesa, Arizona.
+*Climbing Brown Mountain in Mesa, Arizona.*
 
 ![meeting the lead singer of voxtrot](/assets/tn_status/voxtrot.png)
 
-Meeting one of my favourite bands in Minneapolis, Voxtrot!
+*Meeting one of my favourite bands in Minneapolis, Voxtrot!*
 
 I tried to enjoy myself since it was my own personal time off, and I got to spend most of it with my fiancé which was great. I just did not like the negative thoughts hanging over my head about the upcoming interview the whole time.
 
@@ -182,19 +182,19 @@ It was nice that I was able to order delivery and have it delivered to my hotel 
 
 ![sushi](/assets/tn_status/sushi.jpg)
 
-Can you believe I ate all this that night? I can't either!
+*Can you believe I ate all this that night? I can't either!*
 
 <h2> The Day of the Interview </h2>
 
 When I woke up I was actually not hungry at all, it could have been a combination of all the sushi I had the previous night and the nervousness/anxiety/adrenaline I had in my system with the interview in a few hours. Eventually I did get a bit hungry and well, I skipped the complementary breakfast and had what I call, *the breakfast of champions*.:
 ![don't eat this for breakfast](/assets/tn_status/breakfastofchampions.jpg)
 
-I had this for breakfast. Don't do what I did.
+*I had this for breakfast. Don't do what I did.*
 
 When it came time for the interview I tried to dress the part, see below:
 ![me in formalwear](/assets/tn_status/me.jpg)
 
-Dressing the part for an interview
+*Dressing the part for an interview*
 
 I then made it to the airport. The shoes I wore were definitely not for walking and every step I took was painful, but the motivation to look the part definitely kept me going. When I got to the airport I walked about 10 minutes the wrong way until I asked somebody and had to walk another 10 back. That was not fun.
 
@@ -245,7 +245,7 @@ I later went for more sushi that week to celebrate.
 
 ![The end result](/assets/tn_status/stamp.jpg)
 
-The end result of a multi-month effort
+*The end result of a multi-month effort*
 
 <h2> Post-TN </h2>
 
