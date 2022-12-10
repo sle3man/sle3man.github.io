@@ -215,15 +215,15 @@ After about 15 minutes of waiting I was eventually called over to one of the cou
 
 The agent had a neutral face. The questions they asked were thorough enough to the point where they got the answers they needed, but not intrusive enough to make me feel like I was put in a hotel room and interrogated with a bright lamp aimed at me for a straight hour (I might blog about this in another life... haha)
 
-The very first thing they asked was for my bachelor's degree. I carefully took it out of a reinforced cardboard tube and unfurled it. Handed it over to them for a copy.
+The very first thing they asked was for my bachelor's degree. I carefully took it out of a reinforced cardboard tube, unfurled it, and handed it over to them for a copy.
 
 They then proceeded to ask me questions about my offer letter, support letter, and also took my transcript.
 
-One of the first questions they asked was about how I mentioned I was "transferring as a US employee" and didn't see any documentation about a transfer. I elaborated by saying they're basically firing me as a Canadian employee and re-hiring as a US-based employee. They also seemed satisfied by this answer.
+One of the first questions they asked was about how I mentioned I was "transferring as a US employee" and didn't see any documentation about a transfer. I elaborated by saying they're basically firing me as a Canadian employee and re-hiring as a US-based employee. They seemed satisfied by this answer.
 
 They also asked questions like:
 - "Are you applying for just yourself?"
-- "The support letter doesn't mention if you get a different role, will there be any notice? Your TN hinges on this fact." I told them that the company will give me advanced and written notice if I get a new role. They seemed satisfied by this answer.
+- "The support letter doesn't mention if you get a different role, will there be any notice? Your TN hinges on this fact." I told them that the company will give me advanced and written notice if I get a new role. They also seemed satisfied by this answer.
 - "What category are you applying for?"
 - "What are your responsibilities?"
 - "What is your manager's name, how long have you known them for?"
