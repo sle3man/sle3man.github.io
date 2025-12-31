@@ -3,9 +3,9 @@ layout: default
 title: Claire's Cybersecurity Corner // Cooking Blog
 ---
 <h2>
-	DISCLAIMER:  Some of these recipes have elements inspired by other recipes but are wholly adapted as my own creation. Any inspired recipes will be referenced accordingly.
+	DISCLAIMER: Some of these recipes have elements inspired by other recipes but are wholly adapted as my own creation. Any inspired recipes will be referenced accordingly.
 </h2>
-<ul class="posts_cooking">
+<ul class="postscooking">
 {% for post in site.postscooking %}
 	<li><span>{{ post.date | date_to_long_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}
