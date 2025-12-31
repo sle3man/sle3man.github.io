@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Test post"
 date: 2025-12-30 23:12
 ---
