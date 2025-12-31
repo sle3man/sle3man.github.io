@@ -1,3 +1,6 @@
 name: Claire's Cybersecurity Corner
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme
